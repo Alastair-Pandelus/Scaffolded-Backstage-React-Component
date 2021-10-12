@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "sample-nextjs-scaffolded-component"
+  description: "Sample Next.js scaffolded component"
+  annotations:
+    github.com/project-slug: pandelus/Scaffolded-Backstage-React-Component
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: website
+  lifecycle: experimental
+  owner: "team-a"

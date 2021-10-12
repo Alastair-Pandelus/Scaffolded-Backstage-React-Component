@@ -1,0 +1,8 @@
+site_name: "sample-nextjs-scaffolded-component"
+site_description: "Sample Next.js scaffolded component"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
